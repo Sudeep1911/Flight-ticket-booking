@@ -8,6 +8,6 @@ Tools Used:
 
 
 And the Vm folder contains the same project with virtual box used. Here the virtual box machine acts as the host the user machine acts as the client.
-The client tries to book ticket by accessing the IP of the virtual box. If the ticket is booked then the ticket is recieved in the client machine.
+The client tries to book ticket by accessing the IP of the virtual box. If the ticket is booked then the ticket is received in the client machine.
 
 The project is Supported with sql database where the flight, Passenger details are stored.
